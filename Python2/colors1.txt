@@ -1,0 +1,10 @@
+orange
+brown
+orange
+red
+green
+green
+red
+red
+black
+yellow

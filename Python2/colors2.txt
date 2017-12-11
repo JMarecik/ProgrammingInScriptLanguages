@@ -1,0 +1,12 @@
+red
+red
+black
+green
+green
+orange
+brown
+blue
+blue
+cyan
+white
+white
