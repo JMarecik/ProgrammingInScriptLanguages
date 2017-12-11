@@ -1,1 +1,1 @@
-# ProgrammingInScriptLanguages
+# Programming in script languages - Excercises
